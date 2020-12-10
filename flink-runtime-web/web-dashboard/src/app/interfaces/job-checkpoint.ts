@@ -117,6 +117,7 @@ export interface CheckPointConfigInterface {
   };
   unaligned_checkpoints: boolean;
   tolerable_failed_checkpoints: number;
+
 }
 
 export interface CheckPointDetailInterface {
